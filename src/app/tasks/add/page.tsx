@@ -1,3 +1,4 @@
+"use client";
 import { TaskForm } from "@/app/components/TaskForm";
 import React from "react";
 
